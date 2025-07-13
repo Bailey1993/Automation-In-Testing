@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Automationintesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9ad9cd892fa6d0a5252f917b61ae0de6b04be64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d99af78e4114676068fa0dfc18af11d1ee6fc7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Automationintesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Automationintesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
